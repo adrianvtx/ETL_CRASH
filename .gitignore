@@ -122,3 +122,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ~$data-13-1-extract-transform-load.pptx
+excel_addin/ExcelAddInDeploy_latest.msi
