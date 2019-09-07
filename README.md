@@ -1,4 +1,5 @@
-# ETL_CRASH
+###
+ETL_CRASH
  Team "CRASH" ETL Project
 
  ETL_CRASH is an in-class Data Analytics Project wherein this team is tasked with creating a new database on any subject from existing worldwide web resources. The subjectmatter we chose is comparative financial data. Collecting financial data surrounding the Great Recession, and pairing it with same categories' data from 3-years prior to present day, we hope to create an efficient and compact database for use in comparative analysis of the two periods.
